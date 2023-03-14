@@ -1,6 +1,7 @@
 # flutter_camera_practice
 
 A new Flutter project.
+Ref: https://medium.com/@fernnandoptr/how-to-use-camera-in-flutter-flutter-camera-package-44defe81d2da
 
 ## Getting Started
 
